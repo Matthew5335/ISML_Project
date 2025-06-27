@@ -1,7 +1,6 @@
 # JADE Thermostat Agent Project
 
-This project implements a simple JADE (Java Agent DEvelopment Framework) system with a `ThermostatAgent`, `EnvironmentAgent`, and a `WeatherMonitorAgent`. It simulates communication between agents to control and monitor a room temperature scenario.
-
+This project implements a simple JADE (Java Agent DEvelopment Framework) system with a `AlertAgent`, and a `WeatherMonitorAgent`. It reads the temperature and the humidity of 10 preselected cities and displays it in real time at a customizable rate.
 ## 🛠 Requirements
 
 - Java JDK 17+
